@@ -1,0 +1,5 @@
+termination_type,won_by_count,lost_by_count
+timeout,211,15
+resigned,360,701
+checkmated,279,142
+abandoned,50,5
