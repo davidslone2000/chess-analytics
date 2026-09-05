@@ -4,6 +4,8 @@ An end-to-end analytics project examining 1,807 of my Chess.com blitz games usin
 
 ![Dashboard Overview](images/Dashboard_Overview.png)
 
+[View the Interactive Dashboard](https://chess-analytics-x8zynydycthfmcmgenkqyv.streamlit.app/)
+
 ## Project Overview
 
 I built this project to analyze my Chess.com blitz performance while practicing an end-to-end analytics workflow.
