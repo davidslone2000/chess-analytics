@@ -2,12 +2,11 @@
 
 An end-to-end analytics project examining 1,807 of my Chess.com blitz games using Python, PostgreSQL, SQL, pandas, Matplotlib, and Streamlit.
 
+### [Launch the Interactive Dashboard →](https://chess-analytics-x8zynydycthfmcmgenkqyv.streamlit.app/)
+
 ![Dashboard Overview](images/Dashboard_Overview.png)
 
-[View the Interactive Dashboard](https://chess-analytics-x8zynydycthfmcmgenkqyv.streamlit.app/)
-
 ## Project Overview
-
 I built this project to analyze my Chess.com blitz performance while practicing an end-to-end analytics workflow.
 
 Monthly Chess.com game archives were collected with Python and stored in PostgreSQL as raw JSONB. SQL was then used to transform the raw data into structured tables. The resulting data was explored with pandas and visualized with Matplotlib. Streamlit was used as the final presentation layer.
