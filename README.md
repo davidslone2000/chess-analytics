@@ -29,7 +29,7 @@ Monthly Chess.com game archives were collected with Python and stored in Postgre
 flowchart TB
     A[Chess.com Monthly Archives] --> B[Python Ingestion]
     B --> C[(PostgreSQL Raw JSONB)]
-    C --> D[SQL CLeaning and Transformation]
+    C --> D[SQL Cleaning and Transformation]
     D --> E[(Structured Game Data)]
     E --> F[SQL Analysis]
     F --> G[Processed CSVs]
